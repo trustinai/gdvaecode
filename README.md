@@ -1,5 +1,5 @@
 # The Gaussian Discriminant Variational Autoencoder (GdVAE) - A Self-Explainable Model with Counterfactual Explanations
-## ECCV 2024 Paper
+## ECCV 2024 Paper - official supplement code
 
 <div style="text-align: justify">
 
