@@ -23,7 +23,7 @@ For more info visit [project page](https://trustinai.github.io/gdvae/).
 | **[Example](#example)**
 | **[Citation](#citation)**
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXXX.XXXXX-a.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.12952-a.svg)](https://arxiv.org/abs/2409.12952)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![Pytorch](https://img.shields.io/badge/PyTorch-2.1-red.svg)](https://pytorch.org)
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-If this code is useful to your work, please cite [our paper](https://arxiv.org/abs/XXXX.XXXX) as follows: 
+If this code is useful to your work, please cite [our paper](https://arxiv.org/abs/2409.12952) as follows: 
 
 ```
 @InProceedings{Haselhoff_2024_ECCV,
